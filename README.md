@@ -5,6 +5,7 @@
 首先，要确保电脑上安装了较新的node.js版本
 
 然后，按如下步骤操作
+
 1.在package.json目录下通过命令行安装依赖包
 <pre><code>npm install</code></pre>
 
