@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.gray-bg {
+    color: #b0b0b0;
+    background: #333;
+}
+
+.bar {
+    height: 40px;
+    font-size: 12px;
+}
+
+.container {
+    width: 1226px;
+    margin-right: auto;
+    margin-left: auto;
+}

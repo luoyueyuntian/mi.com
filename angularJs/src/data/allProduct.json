@@ -1,0 +1,755 @@
+[{
+        "productName": "手机 电话卡",
+        "productArr": [{
+                "productName": " 小米Note 3 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/note3-80-2.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 小米MIX 2 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/mix2-80.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 小米6 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xm6_80.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 小米5X 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/80pc-5x.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 小米Max 2 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/max2_80.jpg",
+                "isVarity": true
+            },
+            {
+                "productName": " 小米手机5c 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/5c_80.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 小米Note 2 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xmNOTE2-80.jpg",
+                "isVarity": true
+            },
+            {
+                "productName": " 小米5s 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xm5S-80.jpg",
+                "isVarity": true
+            },
+            {
+                "productName": " 小米5s Plus 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xm5S-plus-80.jpg",
+                "isVarity": true
+            },
+            {
+                "productName": " 红米5A 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/80-5a.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 红米Note 5A 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/805a.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 红米Note 4X 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/hmn4x80.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 红米4X 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/hm4x_80.png",
+                "isVarity": true
+            },
+            {
+                "productName": " 红米4 选购 ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/hm4-80.jpg",
+                "isVarity": true
+            },
+            {
+                "productName": " 移动4G+专区  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 对比手机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/compare.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 米粉卡 日租卡  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/mifenka-1.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米移动 电话卡  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/mimobile.jpg",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "笔记本",
+        "productArr": [{
+                "productName": " 笔记本Air 12.5\"  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/bijiben80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 笔记本Air 13.3\" 独显  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/bijiben80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 笔记本Air 13.3\" 集显  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/bijiben80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 笔记本Pro 15.6\"  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/WechatIMG605.png",
+                "isVarity": false
+            },
+            {
+                "productName": " USB-C电源适配器  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/bjbcdq80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " USB-C转接器  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/usbzjqggg80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " VGA 千兆网口转接器  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/vga.png",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米笔记本内胆包  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/neidanbao80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 悦米机械键盘  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/ymjp80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米便携鼠标  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/shubiao80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米无线鼠标  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/wxsb80.png",
+                "isVarity": false
+            },
+            {
+                "productName": " 鼠标垫  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xmsbd80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " DisplayPort转接器  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/USBC80.jpg",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "电视 盒子",
+        "productArr": [{
+                "productName": " 小米电视4C 43英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xin55.png",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4C 55英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xin43.png",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4 49英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/80xmds_49.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4 55英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/80xmds_55.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4 65英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/80xmds_65.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4A 32英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/zuodaohang.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4A 43英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/4A43.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4A 49英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xp80_49.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4A 55英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xp80_55.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视4A 65英寸  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xp80_65.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米电视3s 65英寸 曲面  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/6580side.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米盒子3s  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/hezi80-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米盒子3c  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/hezi80-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米盒子3 增强版  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/hezizengqiangban80side.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 家庭音响  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/80x80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 安装服务  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/iconaz80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 电视盒子配件  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/dianshipeijian.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米影视会员  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/huiyuan.png",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米儿童会员  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/ertong1.png",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "路由器 智能硬件",
+        "productArr": [{
+                "productName": " 九号平衡车  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/phcplus80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 米家扫地机器人及配件  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/jiqiren.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米VR眼镜  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/VRPLAY2.png",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米路由器  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/luyouqi-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 电助力折叠自行车  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/zxc80-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 电水壶  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/shuihu80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 米家车载空气净化器  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/czjhq80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 手表  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/dianhuashoubiao80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 米家智能电饭煲  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/dianfanbao-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 智能摄像机/相机/微单  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xiaobai80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 净化器及滤芯  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/jinghuaqilvxin80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 净水器及滤芯  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/jingshuiqiandlvxin-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 手环及配件  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/shouhuan280.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 牙刷  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/yashua80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 智能灯  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/zhinengdeng-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 米兔智能故事机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/gushiji80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 智能家庭组合  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/zhinengjiatingtaozhuang-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 血压计  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xueyaji-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 体重秤 / 体脂秤  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/scale.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 电动滑板车  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/huabanche80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米无人机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/wurenji80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 米家行车记录仪  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/jly80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米米家对讲机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/djj80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 全部智能硬件  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/znyjdaohang.jpg",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "移动电源 电池 插线板",
+        "productArr": [{
+                "productName": " 小米移动电源  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/dianyuan280.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 插线板  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/c1xb343.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 品牌移动电源  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/yidongdianyuan.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 移动电源附件  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/dianyuanfujian.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 充电器  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/chongdianqi-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 彩虹5号电池  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/5Battery1.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 彩虹7号电池  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/7Battery1.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米手电筒  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/shoudiantong8080.jpg",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "耳机 音箱",
+        "productArr": [{
+                "productName": " 小米头戴式耳机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/toudai80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 头戴式耳机轻松版  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/tdsqs80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米降噪耳机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xmjzej80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米圈铁耳机 Pro  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/qtpro80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米圈铁耳机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/quantie.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米胶囊耳机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/jiaonang80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米活塞耳机清新版  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/huosai1.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米蓝牙耳机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/bluetoothheadset.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米运动蓝牙耳机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/yundong80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米运动蓝牙耳机mini  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/3-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 品牌耳机  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/pinpai80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米网络音响  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/wlyx80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米蓝牙音箱  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/pocketaudio.png",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米随身蓝牙音箱  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/suishen-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小钢炮音箱 2  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xiaogangpao2-hei-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米方盒子蓝牙音箱2  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/fhzlyyx80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米音乐闹钟  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/naozhong80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米米兔音箱  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/mituyinx80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 音乐蓝牙车充  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/chechong1.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米蓝牙音频接收器  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/20170707135935.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 小米AI音箱  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/80x80.jpg",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "保护套 贴膜",
+        "productArr": [{
+                "productName": " 贴膜  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/tiemo.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 保护套/保护壳  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/baohu.jpg",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "线材 支架 存储卡",
+        "productArr": [{
+                "productName": " 线材  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xiancai.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 自拍杆  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/zipaigan.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 手机支架  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/zhijia.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 存储卡  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/cunchu.jpg",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "箱包 服饰 鞋 眼镜",
+        "productArr": [{
+                "productName": " 箱包  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/xiangbao-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 90分旅行箱  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/lvxingxiang.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 服饰  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/huise2-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 运动鞋 板鞋  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/ydx80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 眼镜  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/tyj80.jpg",
+                "isVarity": false
+            }
+        ]
+    },
+    {
+        "productName": "米兔 生活周边",
+        "productArr": [{
+                "productName": " 米兔玩偶  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/mitu-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 生活周边  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/zhoubian1.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 《小米》会刊  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/zazhi1021-80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 毛巾/浴巾  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/mj80.jpg",
+                "isVarity": false
+            },
+            {
+                "productName": " 8H家居产品  ",
+                "target": "#",
+                "imgSrc": "./assert/img/thumbnall/rjcd80.jpg",
+                "isVarity": false
+            }
+        ]
+    }
+]

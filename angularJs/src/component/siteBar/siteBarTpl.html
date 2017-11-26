@@ -1,0 +1,52 @@
+<div class="container site-bar">
+    <div class="site-container">
+        <ul>
+            <li ng-repeat="site in sites">
+                <a href="{{site.target}}">{{site.targetName}}</a>
+            </li>
+        </ul>
+    </div>
+    <div class="user-container">
+        <ul class="user-menu-container">
+            <li ng-if="login===false" ng-repeat="menu in commonAccontMenus">
+                <a href="{{menu.target}}">{{menu.name}}</a>
+            </li>
+            <li ng-class="{'user-info':menu.isUserId,'user-active':menu.isUserId&&menu.isActive}" ng-if="login===true" ng-repeat="menu in userMenus" ng-mouseenter="showSubmenu(menu)" ng-mouseleave="hideSubmenu(menu)">
+                <a ng-href="{{menu.target}}">{{menu.name}}
+                    <i class="fa fa-chevron-down" ng-if="menu.childMenu!==undefined"></i>
+                </a>
+                <ul ng-if="menu.childMenu!==undefined" ng-show="menu.showChildMenu">
+                    <li ng-repeat="imenu in menu.childMenu">
+                        <a ng-href="{{imenu.target}}">{{imenu.name}}</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <ul class="cart-container">
+            <li ng-class="{'cart-filled':cart.goodsList.length>0}" ng-mouseenter="showCart()" ng-mouseleave="hideCart()">
+                <i class="fa cart-arrow-down"></i> 购物车（{{cart.number}}）
+                <div class="cart-section" ng-show="cart.showCart">
+                    <div class="empty" ng-if="cart.number===0">购物车中还没有商品，赶紧选购吧！</div>
+                    <div ng-if="cart.number>0">
+                        <ul class="cart-list">
+                            <li ng-repeat="goods in cart.goodsList">
+                                <div class="goods-img"><img ng-src="{{goods.imgSrc}}" alt="" width="60px" height="60px"></div>
+                                <div class="goods-describ">{{goods.describ}}</div>
+                                <span class="goods-price">{{goods.price}}元X{{goods.number}}</span>
+                                <span class="btn-del">X</span>
+                            </li>
+                        </ul>
+                        <div class="cart-total">
+                            <div class="sum">
+                                <span>共{{cart.number}}商品</span>
+                                </br>
+                                <span class="total-price">{{cart.totalPrice}}</span>
+                            </div>
+                            <div class="btn-pay">去购物车结算</div>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</div>

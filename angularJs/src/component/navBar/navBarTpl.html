@@ -1,0 +1,50 @@
+<div class="container nva-bar">
+    <div class="btn-home">
+        <a href="#">
+            <img ng-src="{{home.imgSrc}}" alt="home.title">
+        </a>
+    </div>
+    <div class="nav-container">
+        <ul class="nav-list">
+            <li class="root-menu" ng-mouseenter="showRootMenu()" ng-mouseleave="hideRootMenu()">
+                <a class="root-menu-link" href="#" ng-show="allMenuInfo.showContent">{{allMenuInfo.name}}</a>
+            </li>
+            <li class="item-menu" ng-repeat="product in navProduct" ng-mouseenter="showChildNavContainer(product)" ng-mouseleave="hideChildNavContainer(product)">
+                <a class="item-menu-link" href="#">{{product.name}}</a>
+                <div class="child-nav-container" ng-show="product.showChildNav">
+                    <ul>
+                        <li ng-repeat="iproduct in product.adviseProduct">
+                            <div>
+                                <div class="product-icon icon-new">
+                                    <div ng-if="iproduct.flag" class="new-product">{{iproduct.flag}}</div>
+                                </div>
+                                <div class="thumbnall">
+                                    <img ng-src="{{iproduct.imgUrl}}" alt="">
+                                </div>
+                                <div class="product-name">
+                                    <a ng-href="{{iproduct.target}}">{{iproduct.name}}</a>
+                                </div>
+                                <div class="price">{{iproduct.price}}</div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="product-nav-container" ng-show="showAllProductMenu">
+        <all-category-component></all-category-component>
+    </div>
+    <div class="search-container">
+        <div class="search">
+            <input type="text">
+            <div class="adjust-product" ng-repeat="product in adviceProduct"></div>
+        </div>
+        <div class="btn-search">
+            <i class="fa fa-search"></i>
+        </div>
+    </div>
+</div>
+<div class="nav-item-container">
+
+</div>

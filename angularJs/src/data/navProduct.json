@@ -1,0 +1,264 @@
+[{
+    "name": "小米手机",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": [{
+        "name": "小米MIX 2",
+        "flag": "新品",
+        "imgUrl": "./assert/img/mix2320-220.png",
+        "target": "#",
+        "price": "3299起"
+    }, {
+        "name": "小米NOTE 3",
+        "flag": "新品",
+        "imgUrl": "./assert/img/note2320x220.png",
+        "target": "#",
+        "price": "1999起"
+    }, {
+        "name": "小米6",
+        "imgUrl": "./assert/img/xm6-320.png",
+        "target": "#",
+        "price": "2299起"
+    }, {
+        "name": "小米5X",
+        "imgUrl": "./assert/img/5x-2.jpg",
+        "target": "#",
+        "price": "1499起"
+    }]
+}, {
+    "name": "红米",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": [{
+        "name": "红米 5A",
+        "flag": "新品",
+        "imgUrl": "./assert/img/5A320-220.png",
+        "target": "#",
+        "price": "599起"
+    }, {
+        "name": "红米NOTE 5A 标准版",
+        "flag": "新品",
+        "imgUrl": "./assert/img/3205a.png",
+        "target": "#",
+        "price": "699起"
+    }, {
+        "name": "红米NOTE 5A 高配版",
+        "flag": "新品",
+        "imgUrl": "./assert/img/5AS320-220.jpg",
+        "target": "#",
+        "price": "899起"
+    }, {
+        "name": "红米NOTE 4X",
+        "imgUrl": "./assert/img/note4x.jpg",
+        "target": "#",
+        "price": "999起"
+    }, {
+        "name": "红米 4X",
+        "imgUrl": "./assert/img/hm4x.jpg",
+        "target": "#",
+        "price": "699起"
+    }]
+}, {
+    "name": "笔记本",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": [{
+        "name": "小米笔记本Air 12.5``",
+        "target": "#",
+        "imgUrl": "./assert/img/bijiben32012.5.jpg",
+        "price": ""
+    }, {
+        "name": "小米笔记本Air 13.3`` 独显",
+        "target": "#",
+        "imgUrl": "./assert/img/bijiben320.jpg",
+        "price": ""
+    }, {
+        "name": "小米笔记本Air 13.3`` 集显",
+        "target": "#",
+        "imgUrl": "./assert/img/bijiben320.jpg",
+        "price": ""
+    }, {
+        "name": "小米笔记本Pro 15.6``",
+        "flag": "新品",
+        "target": "#",
+        "imgUrl": "./assert/img/WechatIMG603.png",
+        "price": ""
+    }]
+}, {
+    "name": "电视",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": [{
+            "name": "小米电视4 55英寸",
+            "target": "#",
+            "imgUrl": "./assert/img/xmds_55.png",
+            "price": "4499元",
+            "flag": "超薄旗舰"
+        },
+        {
+            "name": "小米电视4 65英寸",
+            "target": "#",
+            "imgUrl": "./assert/img/dianshi465.png",
+            "price": "9999元",
+            "flag": "超薄旗舰"
+        },
+        {
+            "name": "小米电视4A 32英寸",
+            "target": "#",
+            "imgUrl": "./assert/img/daohang.png",
+            "price": "999元",
+            "flag": "热卖"
+        },
+        {
+            "name": "小米电视4A 43英寸",
+            "target": "#",
+            "imgUrl": "./assert/img/320_43.png",
+            "price": "1999元",
+            "flag": "热卖"
+        },
+        {
+            "name": "小米电视4A 49英寸",
+            "target": "#",
+            "imgUrl": "./assert/img/320_49.png",
+            "price": "2399元",
+            "flag": "热卖"
+        },
+        {
+            "name": "查看全部小米电视",
+            "target": "#",
+            "imgUrl": "./assert/img/70dianshi.png"
+        }
+    ]
+}, {
+    "name": "盒子",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": [{
+            "name": "小米盒子3s",
+            "target": "#",
+            "imgUrl": "./assert/img/mihezi.png",
+            "price": "329元"
+        },
+        {
+            "name": "小米盒子3c",
+            "target": "#",
+            "imgUrl": "./assert/img/mihezi.png",
+            "price": "229元"
+        },
+        {
+            "name": "小米盒子3 增强版",
+            "target": "#",
+            "imgUrl": "./assert/img/hezi3s.jpg",
+            "price": "399元"
+        },
+        {
+            "name": "小米家庭影院",
+            "target": "#",
+            "imgUrl": "./assert/img/320x220.png",
+            "price": "1999元"
+        }
+    ]
+}, {
+    "name": "新品",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": []
+}, {
+    "name": "路由器",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": [{
+            "name": "小米路由器 3A",
+            "target": "#",
+            "imgUrl": "./assert/img/3A320X220.jpg",
+            "price": "119元",
+            "flag": "新品"
+        },
+        {
+            "name": "小米路由器 HD/Pro",
+            "target": "#",
+            "imgUrl": "./assert/img/HD-Pro.png",
+            "price": "499元起",
+            "flag": "大容量"
+        },
+        {
+            "name": "小米路由器 3G",
+            "target": "#",
+            "imgUrl": "./assert/img/3G.png",
+            "price": "239元",
+            "flag": "双千兆"
+        },
+        {
+            "name": "小米路由器 3",
+            "target": "#",
+            "imgUrl": "./assert/img/xmlyq3.png",
+            "price": "129元",
+            "flag": "双频"
+        },
+        {
+            "name": "小米路由器 3C",
+            "target": "#",
+            "imgUrl": "./assert/img/3C.png",
+            "price": "79元",
+            "flag": "包邮"
+        },
+        {
+            "name": "小米WiFi放大器 2",
+            "target": "#",
+            "imgUrl": "./assert/img/fdq2.jpg",
+            "price": "49元"
+        }
+    ]
+}, {
+    "name": "智能硬件",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": [{
+            "name": "小米无人机",
+            "target": "#",
+            "imgUrl": "./assert/img/123321.jpg",
+            "price": "2999元",
+            "flag": "航拍利器"
+        },
+        {
+            "name": "小米手环2",
+            "target": "#",
+            "imgUrl": "./assert/img/sh2-320-220.png",
+            "price": "149元",
+            "flag": "包邮"
+        },
+        {
+            "name": "小米净水器",
+            "target": "#",
+            "imgUrl": "./assert/img/jsqcs-320-220.png",
+            "price": "1499元起"
+        },
+        {
+            "name": "米家扫地机器人",
+            "target": "#",
+            "imgUrl": "./assert/img/saodijiqiren320-220.jpg",
+            "price": "1699元"
+        },
+        {
+            "name": "米家压力IH电饭煲",
+            "target": "#",
+            "imgUrl": "./assert/img/dfb.jpg",
+            "price": "999元"
+        },
+        {
+            "name": "查看全部智能硬件",
+            "target": "#",
+            "imgUrl": "./assert/img/air2.jpg"
+        }
+    ]
+}, {
+    "name": "社区",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": []
+}, {
+    "name": "服务",
+    "target": "#",
+    "showChildNav": false,
+    "adviseProduct": []
+}]

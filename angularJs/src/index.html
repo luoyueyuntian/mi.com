@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="./assert/img/favicon.ico" type="image/x-icon">
+    <title>山寨小米商城</title>
+    <link rel="stylesheet" href="./3rdlib/font-awesome-4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./common/css/common.css">
+    <link rel="stylesheet" href="./component/siteBar/siteBar.css">
+    <link rel="stylesheet" href="./component/navBar/navBar.css">
+    <link rel="stylesheet" href="./component/allCategory/allCategory.css">
+</head>
+
+<body ng-app="mainApp">
+    <link rel="stylesheet" href="./home/css/style.css">
+    <div class="top-bar">
+        顶部广告区，预留
+    </div>
+    <div class="gray-bg bar">
+        <site-bar></site-bar>
+    </div>
+    <div class="container">
+        <nav-bar></nav-bar>
+    </div>
+    <div class="main">
+        <div ui-view></div>
+    </div>
+    <script src="./3rdlib/angular-1.6.6/angular.js"></script>
+    <script src="./3rdlib/angular-ui-router/release/angular-ui-router.js"></script>
+    <script src="main.js"></script>
+    <script src="router.js"></script>
+    <script src="./home/js/siteController.js"></script>
+    <script src="./component/siteBar/siteBarComponent.js"></script>
+    <script src="./component/navBar/navBarComponent.js"></script>
+    <script src="./component/allCategory/allCategoryComponent.js"></script>
+
+</body>
+
+</html>

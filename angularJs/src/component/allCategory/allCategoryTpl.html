@@ -1,0 +1,19 @@
+<div ng-class="bgColorCls">
+    <ul>
+        <li class="category-menu" ng-repeat="category in allCategory" ng-mouseenter="showGoodsList(category)" ng-mouseleave="hideGoodsList(category)">
+            <a class="menu-link" href="">{{category.productName}}<i class="fa fa-angle-right" aria-hidden="true"></i></a>
+            <div class="{{category.goodsLibrary.className}}" ng-show="category.showGoodsContainer">
+                <div class="goods-item-container" ng-repeat="goodsItem in category.goodsLibrary">
+                    <ul>
+                        <li class="goods" ng-repeat="goods in goodsItem">
+                            <a class="goods-link" ng-href="{{goods.target}}">
+                                <img class="goods-thumbnall" ng-src="{{goods.imgSrc}}" alt="{{goods.productName}}">
+                                <span>{{goods.productName}}</span>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+    </ul>
+</div>
