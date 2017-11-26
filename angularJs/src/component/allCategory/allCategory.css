@@ -1,9 +1,11 @@
-.category-container {
-    position: relative;
+/*全部商品*/
+
+.category-bg-color {
+    background-color: rgba(0, 0, 0, 0.6);
 }
 
-.gray-bg {
-    background-color: rgba(0, 0, 0, 0.6);
+.category-container {
+    position: relative;
 }
 
 .category-container>ul {
@@ -17,7 +19,7 @@
     background-color: #ff6700;
 }
 
-.category-menu a {
+.category-menu .menu-link {
     position: relative;
     display: block;
     padding-left: 30px;
@@ -41,11 +43,6 @@
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.18);
 }
 
-.goods-item-container {
-    float: left;
-    width: 265px;
-}
-
 .column-1 {
     width: 265px;
 }
@@ -54,19 +51,32 @@
     width: 530px;
 }
 
+.column-2 .goods-item-container {
+    width: 265px;
+}
+
 .column-3 {
     width: 795px;
 }
 
+.column-3 .goods-item-container {
+    width: 265px;
+}
+
 .column-4 {
-    width: 1060px;
+    width: 992px;
 }
 
-.column-5 {
-    width: 1325px;
+.column-4 .goods-item-container {
+    width: 248px;
 }
 
-.goods {
+.goods-item-container {
+    float: left;
+    width: 265px;
+}
+
+.goods-list>li {
     width: 265px;
     height: 76px;
 }
@@ -78,11 +88,29 @@
     color: #333;
 }
 
-.goods-link im {
+.goods-link img {
     vertical-align: middle;
 }
 
-.goods .goods-thumbnall {
+.goods-list .goods-thumbnall {
     width: 40px;
     height: 40px;
+}
+
+.star-goods .goods-link {
+    width: 170px;
+    padding-right: 0;
+    display: inline-block;
+}
+
+.star-goods .btn-buy {
+    width: 58px;
+    height: 22px;
+    display: inline-block;
+    line-height: 22px;
+    border: 1px solid #ff6700;
+    background: #fff;
+    color: #ff6700;
+    text-align: center;
+    cursor: pointer;
 }

@@ -1,85 +1,85 @@
 [{
         "productName": "手机 电话卡",
         "productArr": [{
-                "productName": " 小米Note 3 选购 ",
+                "productName": " 小米Note 3 ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/note3-80-2.png",
                 "isVarity": true
             },
             {
-                "productName": " 小米MIX 2 选购 ",
+                "productName": " 小米MIX 2 ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/mix2-80.png",
                 "isVarity": true
             },
             {
-                "productName": " 小米6 选购 ",
+                "productName": " 小米6 ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/xm6_80.png",
                 "isVarity": true
             },
             {
-                "productName": " 小米5X 选购 ",
+                "productName": " 小米5X ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/80pc-5x.png",
                 "isVarity": true
             },
             {
-                "productName": " 小米Max 2 选购 ",
+                "productName": " 小米Max 2 ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/max2_80.jpg",
                 "isVarity": true
             },
             {
-                "productName": " 小米手机5c 选购 ",
+                "productName": " 小米手机5c ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/5c_80.png",
                 "isVarity": true
             },
             {
-                "productName": " 小米Note 2 选购 ",
+                "productName": " 小米Note 2 ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/xmNOTE2-80.jpg",
                 "isVarity": true
             },
             {
-                "productName": " 小米5s 选购 ",
+                "productName": " 小米5s ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/xm5S-80.jpg",
                 "isVarity": true
             },
             {
-                "productName": " 小米5s Plus 选购 ",
+                "productName": " 小米5s Plus ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/xm5S-plus-80.jpg",
                 "isVarity": true
             },
             {
-                "productName": " 红米5A 选购 ",
+                "productName": " 红米5A ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/80-5a.png",
                 "isVarity": true
             },
             {
-                "productName": " 红米Note 5A 选购 ",
+                "productName": " 红米Note 5A ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/805a.png",
                 "isVarity": true
             },
             {
-                "productName": " 红米Note 4X 选购 ",
+                "productName": " 红米Note 4X ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/hmn4x80.png",
                 "isVarity": true
             },
             {
-                "productName": " 红米4X 选购 ",
+                "productName": " 红米4X ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/hm4x_80.png",
                 "isVarity": true
             },
             {
-                "productName": " 红米4 选购 ",
+                "productName": " 红米4 ",
                 "target": "#",
                 "imgSrc": "./assert/img/thumbnall/hm4-80.jpg",
                 "isVarity": true

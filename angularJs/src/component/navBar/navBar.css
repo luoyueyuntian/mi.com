@@ -26,7 +26,12 @@
     padding-top: 3px;
     overflow: hidden;
     text-align: center;
+    color: #fff;
     background-color: #ff6700;
+}
+
+.btn-home a:hover {
+    font-weight: bold;
 }
 
 

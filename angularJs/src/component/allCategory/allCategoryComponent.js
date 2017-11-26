@@ -1,9 +1,3 @@
-var componentModule = null;
-try {
-    componentModule = angular.module('componentModule');
-} catch (e) {
-    componentModule = angular.module('componentModule', []);
-}
 componentModule.component('allCategoryComponent', {
     templateUrl: './component/allCategory/allCategoryTpl.html',
     controller: ['$scope', '$http', function($scope, $http) {

@@ -1,4 +1,5 @@
 var mainModule = angular.module('mainApp', ['router', 'componentModule', 'homeModule']);
+var componentModule = angular.module('componentModule', []);
 mainModule.run(function($rootScope) {
     $rootScope.sites = [{
         'target': '#',

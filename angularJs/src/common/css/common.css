@@ -11,14 +11,10 @@ a {
     text-decoration: none;
 }
 
-.gray-bg {
-    color: #b0b0b0;
-    background: #333;
-}
-
-.bar {
+.top-nav-bar {
     height: 40px;
     font-size: 12px;
+    background-color: #333;
 }
 
 .container {

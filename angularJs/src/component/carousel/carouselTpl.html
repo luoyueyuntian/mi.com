@@ -1,0 +1,23 @@
+<div class="carousel-container">
+    <!-- 图片 -->
+    <div class="img-container">
+        <div ng-repeat="img in imgLibary" ng-show="img.showImg">
+            <img ng-src="{{img.src}}" alt="">
+        </div>
+    </div>
+    <!-- 控制区域  -->
+    <div class="switch-hander-container" ng-mouseenter="stop()" ng-mouseleave="start()">
+        <div class="hander-list-container" ng-repeat="img in imgLibary track by $index">
+            <div ng-class="{'active-hander':$index===currentIndex,'hander':true}" ng-click="showImgByIndex($index)"></div>
+        </div>
+    </div>
+    <!-- 左右切换按钮 -->
+    <div class="side-hander-container">
+        <div class="side left-side" ng-click="showPre()" ng-mouseenter="stop()" ng-mouseleave="start()">
+            <i class="fa fa-angle-left"></i>
+        </div>
+        <div class="side right-side" ng-click="showNext()" ng-mouseenter="stop()" ng-mouseleave="start()">
+            <i class="fa fa-angle-right"></i>
+        </div>
+    </div>
+</div>

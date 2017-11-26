@@ -1,15 +1,16 @@
-<div ng-class="bgColorCls">
+<div class="category-container category-bg-color">
     <ul>
         <li class="category-menu" ng-repeat="category in allCategory" ng-mouseenter="showGoodsList(category)" ng-mouseleave="hideGoodsList(category)">
             <a class="menu-link" href="">{{category.productName}}<i class="fa fa-angle-right" aria-hidden="true"></i></a>
             <div class="{{category.goodsLibrary.className}}" ng-show="category.showGoodsContainer">
                 <div class="goods-item-container" ng-repeat="goodsItem in category.goodsLibrary">
-                    <ul>
-                        <li class="goods" ng-repeat="goods in goodsItem">
+                    <ul class="goods-list">
+                        <li ng-class="{'star-goods':goods.isVarity}" ng-repeat="goods in goodsItem">
                             <a class="goods-link" ng-href="{{goods.target}}">
                                 <img class="goods-thumbnall" ng-src="{{goods.imgSrc}}" alt="{{goods.productName}}">
                                 <span>{{goods.productName}}</span>
                             </a>
+                            <a class="btn-buy" ng-if="goods.isVarity">选购</a>
                         </li>
                     </ul>
                 </div>

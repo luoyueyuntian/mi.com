@@ -1,9 +1,3 @@
-var componentModule = null;
-try {
-    componentModule = angular.module('componentModule');
-} catch (e) {
-    componentModule = angular.module('componentModule', []);
-}
 componentModule.component('siteBar', {
     templateUrl: './component/siteBar/siteBarTpl.html',
     controller: ['$scope', '$rootScope', function($scope, $rootScope) {
