@@ -1,5 +1,7 @@
 # mi.com
-临摹小米商城https://www.mi.com/
+临摹小米商城
+
+<a href="https://www.mi.com/" target="_blank">小米商城地址</a>
 
 ## 如何查看效果？
 首先，要确保电脑上安装了较新的node.js版本
